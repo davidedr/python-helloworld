@@ -3,4 +3,4 @@ CLS
 
 REM Build the container
 ECHO Build...
-docker build -t python-helloworld . 
+docker build -t python-helloworld .
